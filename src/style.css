@@ -45,6 +45,9 @@
     font-size: 16px;
     cursor: pointer;
 }
+.add-task button:hover{
+    background-color: #45a049;
+}
 .task{
     display: block;
     background-color: #e5e2e2;
